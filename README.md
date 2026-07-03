@@ -34,12 +34,12 @@ This project predicts employee salaries based on **Years of Experience** using t
 <p align="center">
 <img src="## 📌 Project 01 — Salary Prediction using Linear Regression
 
-
 </p>
+
+### Project Preview
+
 <p align="center">
-  <a href="01_Linear_Regression_Salary_Prediction/images/Salary_Prediction_Poster.png">
-    <img src="01_Linear_Regression_Salary_Prediction/images/Salary_Prediction_Poster.png" width="65%">
-  </a>
+  <img src="01_Linear_Regression_Salary_Prediction/salary_prediction_dashboard.png" width="70%">
 </p>
 ---
 
